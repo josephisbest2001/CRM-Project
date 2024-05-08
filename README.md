@@ -9,7 +9,7 @@
 <body>
     <h1>Welcome to My Website</h1>
     <p>This is the home page.</p>
-    <a href="CRM-Project/website/templates/home.html">Link</a>
+    <a href="index.html">Link</a>
     
 </body>
 </html>
