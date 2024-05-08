@@ -9,8 +9,8 @@
 <body>
     <h1>Welcome to My Website</h1>
     <p>This is the home page.</p>
-    
+    <a href="website/templates/home.html">About Us</a>
     <!-- Hyperlink to navigate to the about.html page -->
-    <a href="about.html">About Us</a>
+    
 </body>
 </html>
